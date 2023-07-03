@@ -23,6 +23,8 @@
 
 A webApp for drum lovers, so that they can enjoy the beats anywhere. 
 
+<img alt="Project Image" src="./drum.gif"/>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
